@@ -4,7 +4,8 @@
 ### Kim, Dong Won.
 
 ### HomePage : https://tuna831.tistory.com/
-### Interest in : C++, UE5, HLSL, InverseKinematics
+### develope skill : C++, UE5
+### interest in : HLSL, Computer Graphics, Inverse Kinematics, RUST
 <!--
 **comwitch/comwitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
