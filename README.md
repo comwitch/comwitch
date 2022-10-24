@@ -2,6 +2,9 @@
 
 
 ### Kim, Dong Won.
+
+### HomePage : https://tuna831.tistory.com/
+### Interest in : C++, UE5, HLSL, InverseKinematics
 <!--
 **comwitch/comwitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
