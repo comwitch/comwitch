@@ -6,6 +6,8 @@
 ### HomePage : https://tuna831.tistory.com/
 ### develope skill : C++, UE5,
 ### interest in : HLSL, Computer Graphics, Inverse Kinematics, RUST
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=comwitch&show_icons=true&theme=radical)
 <!--
 **comwitch/comwitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
